@@ -108,7 +108,7 @@ require_once 'config.php';
         <section class="about-preview">
             <div class="about-content">
                 <h2 class="section-title">Our Story</h2>
-                <p>At FrozenDelights, we've been crafting delicious ice creams and beverages since 2010. Our mission is to provide high-quality, refreshing treats for all seasons.</p>
+                <p>At FrozenDelights, we've been crafting delicious ice creams and beverages since 2024. Our mission is to provide high-quality, refreshing treats for all seasons.</p>
                 <p>All our products are made with premium ingredients, with no artificial preservatives.</p>
                 <a href="about.php" class="btn primary-btn">Learn More</a>
             </div>
